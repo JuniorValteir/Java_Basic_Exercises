@@ -1,2 +1,4 @@
 # Java_Exercises
-Practsing Java - Basic to Intermediate exercises in Java Aplications
+## Exercise 01
+*** Faça um algoritmo que receba dois números e exiba o resultado da sua soma ***
+*** Make an algorithm that takes two numbers and displays the result of their sum ***
